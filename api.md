@@ -1,3 +1,10 @@
+# API一覧
+
+## 共通仕様
+
+Headerに指定されたAPI_KEYをX-Safie-API-KEYとして設定してください。
+
+
 # GET /v1/devices
 
 デバイス一覧の取得

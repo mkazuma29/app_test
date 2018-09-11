@@ -17,4 +17,4 @@ View.jsもしくはPure Javascriptで実装をお願いします。
 
 ## Items
 
-*[APIスペック] (api.md)
+*[APIスペック](api.md)
