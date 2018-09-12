@@ -133,7 +133,7 @@ Headerに指定されたAPI_KEYをX-Safie-API-KEYとして設定してくださ�
 | Name      | Description                   |
 |-----------|-------------------------------|
 | device_id | DeviceID                      |
-| date      | 取得日                         |
+| date      | 取得日(JST、%Y-%m-%dフォーマット）　|
 
 ## レスポンス
 ```
