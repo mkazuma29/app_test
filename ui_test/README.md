@@ -19,4 +19,4 @@ Angular.jsもしくはView.jsで実装をお願いします。
 
 ## Items
 
-*[APIスペック](ui_test/api.md)
+*[APIスペック](api.md)
