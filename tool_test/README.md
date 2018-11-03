@@ -19,4 +19,4 @@ View.jsもしくはPure Javascriptで実装をお願いします。
 
 ## Items
 
-*[APIスペック](api.md)
+*[APIスペック](tool_test/api.md)
