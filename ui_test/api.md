@@ -30,8 +30,6 @@ Headerに指定されたAPI_KEYをX-Safie-API-KEYとして設定してくださ�
 
 デバイスのサムネイル取得
 
-| device_id | 取得対象デバイスID              |
-
 ## レスポンス
 ```
 JPEG形式のサムネイルデータ
