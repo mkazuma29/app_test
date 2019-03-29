@@ -4,7 +4,7 @@
 
 ## 共通仕様
 
-Headerに指定されたAPI_KEYをX-Safie-API-KEYとして設定してください。
+指定されたAPI_KEYをリクエストヘッダにX-Safie-API-KEYとして設定してください。
 
 
 # GET /v1/devices
@@ -20,7 +20,7 @@ Headerに指定されたAPI_KEYをX-Safie-API-KEYとして設定してくださ�
                    },
                    ..........
                ],
-    "count"  : count
+    "count"  : count // 総デバイス数
 }
 ```
 
